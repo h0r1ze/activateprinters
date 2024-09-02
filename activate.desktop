@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Активировать Принтер
+Comment=Запуск скрипта для активации принтера
+Exec=/home/123qwe/Документы/start.sh
+Icon=printer
+Terminal=false
+Type=Application
